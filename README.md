@@ -14,7 +14,9 @@ The further - the more difficult the tasks and the better the code)
 <a name="cesar"></a>
 ### Cesarean code
 ![](./z-pictures/ceaserCipher.png)
+
 PATH: /cesar
+
 The console application can work in several modes:
 - encryption with step d
 - decryption
@@ -23,7 +25,9 @@ The console application can work in several modes:
 <a name="substitution-cipher"></a>
 ### Substitution cipher
 ![](./z-pictures/substitution-cipher.png)
+
 PATH: /substitution_cipher
+
 The console application can work in several modes:
 - random encryption table generation
 - text encryption
@@ -32,7 +36,9 @@ The console application can work in several modes:
 <a name="frequency-analysis"></a>
 ### Frequency analysis
 ![](./z-pictures/freq.png)
+
 PATH: /frequency_analysis
+
 The console application can work in several modes:
 - random encryption table generation
 - text encryption
@@ -42,7 +48,9 @@ The console application can work in several modes:
 <a name="miller-rabin"></a>
 ### Miller–Rabin primality test
 ![](./z-pictures/miller.jpg)
+
 PATH: /miller-rabin_primary_test
+
 The console application can work in several modes:
 - check numbers from file
 - check nubers from console input
@@ -52,7 +60,9 @@ The console application can work in several modes:
 <a name="rsa"></a>
 ### RSA client-server socket app
 ![](./z-pictures/how-rsa-works.png)
+
 PATH: /rsa
+
 The console application can work in several modes:
 - chipher functions on encryption.py
 - rsa chat with client-server console app on sockets
